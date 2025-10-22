@@ -2,5 +2,5 @@
 
 ## Documentação de Referência
 
-- [oficial](https://python.langchain.com/docs/introduction/)
-- [LangChain + Ollama](https://python.langchain.com/docs/integrations/llms/ollama/)
+- [oficial](https://docs.langchain.com/oss/python/langchain/overview)
+- [LangChain + Ollama](https://docs.langchain.com/oss/python/integrations/chat/ollama)

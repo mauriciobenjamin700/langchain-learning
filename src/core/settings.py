@@ -18,13 +18,6 @@ class Settings(BaseSettings):
         extra="ignore",
         case_sensitive=True
     )
-
-    # LangSmith settings
-    LANGSMITH_TRACING: str = "true"
-    LANGSMITH_ENDPOINT: str = "https://api.smith.langchain.com"
-    LANGSMITH_API_KEY: str = "YOUR_API_KEY_HERE"
-    LANGSMITH_PROJECT: str = "YOUR_PROJECT_NAME_HERE"
-
     GOOGLE_API_KEY: str = "YOUR_GOOGLE_API_KEY_HERE"
 
 
